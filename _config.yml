@@ -1,9 +1,10 @@
 # Site settings
-title: Soumyadeep Das 
+title: Aaditya Ray 
 subtitle: Homepage
-tagline: I am Soumyadeep Das, an incoming PhD Student at ICRAR/UWA Perth, interested in Astrophysics, AGN, Interferometry.
-email: soumyadeep.das.m44@gmail.com
-description: I am Soumyadeep Das, an incoming PhD Student at ICRAR/UWA Perth. I am interested in multiwavelength AGN research, AGN life-cycle, restarts, and the host environment. 
+tagline: Aaditya is a Techno-Functional Consultant, working for An American multinational consulting firm, at Liverpool street, London, United kingdom.
+email: aadityaray@hotmail.com; 
+email CC: aditya.r17@iimshillong.ac.in
+description: Hi, I am interested in sports, music, family and friends. I am an MBA from IIM Shillong, and a B. Tech from Maulana Azad NIT Bhopal. I had previously worked for Hrasim Aditya birla group (as an Engineer) and Wipro (as Senior Consultant) at locations such as Bangalore(India), Baharain, Saudi Arabia and London (UK).   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://soumyadeepdas.gitlab.io" # the base hostname & protocol for your site
 logo: assets/images/favicon.png
