@@ -24,31 +24,31 @@ collections:
 myversion: 4.5.0
 
 author:
-    name: Soumyadeep Das
+    name: Aaditya Ray
     avatar : assets/images/profile_picture.png
     avatar-webp: assets/images/profile_picture.webp
     avatar-thumb: assets/images/profile_picture-thumb.jpg
-    # author-bio : "Incoming PhD Student at ICRAR/UWA Perth."
-    author-bio : "Graduated with Dual Degree (B.Tech. and M.Tech.) in Engg. Physics, IIT Varanasi, India."
-    ads : https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-3493-6638&sort=date%20desc%2C%20bibcode%20desc
-    facebook: https://www.facebook.com/TheSoumyadeepDas
-    github: https://github.com/lordparthurnaax
-    gitlab: https://gitlab.com/lordparthurnaax
+    # author-bio : "A NIT IIM boy-next-door Vlogger working at London."
+    author-bio : "MBA in Finance, Strategy and  Marketing from IIM, B.Tech from NIT, A teenager State Topper back, working as Management Consultant in London and an Amateur Vlogger."
+    ads : https://ui.adsabs.harvard.edu/
+    facebook: https://www.facebook.com/aditya007ray
+    github: https://github.com/aditya007ray
+    gitlab: https://gitlab.com/aditya007ray
     googleplus: 
-    googlescholar : https://scholar.google.com/citations?user=02NSBH4AAAAJ&hl=en
-    instagram: https://www.instagram.com/lordparthurnaax/
-    linkedin: https://www.linkedin.com/in/soumyadeep01
-    orcid: https://orcid.org/0000-0002-3493-6638
+    googlescholar : https://mail.gmail.com/
+    instagram: https://www.instagram.com/aditya007ray/
+    linkedin: https://www.linkedin.com/in/aadityaray/
+    orcid: https://orcid.org/
     pinterest:
-    researchgate: https://www.researchgate.net/profile/Soumyadeep_Das9
+    researchgate: https://www.researchgate.net
     slack:
-    stackoverflow : https://stackoverflow.com/users/4701760/lordparthurnaax
-    steam : https://steamcommunity.com/profiles/76561198859680680
-    twitter: https://twitter.com/lordparthurnaax
+    stackoverflow : https://stackoverflow.com/
+    steam : https://steamcommunity.com/
+    twitter: https://twitter.com/aditya007ray
 
 # Social for SEO
 twitter: 
-  username: lordparthurnaax
+  username: aditya007ray
   card: summary_large_image
 
 facebook:
@@ -57,14 +57,14 @@ facebook:
   admins: 3425901884091023
 
 social:
-  name: Soumyadeep Das
+  name: Aaditya Ray
   links:
-    - https://twitter.com/lordparthurnaax
-    - https://www.instagram.com/lordparthurnaax/
-    - https://www.facebook.com/TheSoumyadeepDas
-    - https://github.com/lordparthurnaax
-    - https://gitlab.com/lordparthurnaax
-    - https://www.linkedin.com/in/soumyadeep01
+    - https://twitter.com/aditya007ray
+    - https://www.instagram.com/aditya007ray
+    - https://www.facebook.com/aditya007ray
+    - https://github.com/aditya007ray
+    - https://gitlab.com/aditya007ray
+    - https://www.linkedin.com/in/aadityaray
 
 plugins:
   - jekyll-seo-tag
