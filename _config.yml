@@ -11,6 +11,7 @@ logo: assets/images/favicon.png
 image: assets/images/og-pic.jpg
 
 
+
 # Blog posts
 words_per_minute : 160
 future : true
